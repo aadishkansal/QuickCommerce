@@ -1,0 +1,18 @@
+# mac
+.DS_Store
+
+# jupyter
+.ipynb_checkpoints/
+
+# datasets
+data/
+
+# database
+*.db
+
+# virtual env
+.venv/
+
+# exports
+exports/*.xlsx
+exports/*.csv
